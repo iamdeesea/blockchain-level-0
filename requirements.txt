@@ -1,0 +1,10 @@
+# Blockchain Level 0 - Requirements
+# No external dependencies required for core functionality
+# Python 3.8+ with standard library only
+
+# Optional: For testing and development
+pytest>=7.0
+pytest-cov>=3.0
+black>=22.0
+flake8>=4.0
+mypy>=0.950
